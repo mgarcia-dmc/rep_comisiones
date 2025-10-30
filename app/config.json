@@ -20,6 +20,6 @@
   "report": {
     "to": "usuario.dmc@gmail.com",
     "subject": "Miguel - Comisiones Calculadas",
-    "body_html": "Estimado(a), <br>Adjunto encontrarás el archivo con las comisiones calculadas.<br>Saludos."
+    "body_html": "Estimado(a), <h3><br>Adjunto encontrarás el archivo con las comisiones calculadas.</h3><br>Saludos."
   }
 }
